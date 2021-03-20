@@ -1,0 +1,25 @@
+/*Tablet Layout*/
+@media only screen and (min-width:200px) and (max-width:991px){
+    
+    .inner_top_header.container { background: #BA2E1F;}
+    .search_area {margin-top: 12px;}
+    .inner_header.container {padding: 20px 0;}
+    .social_area {padding-top: 35px;}
+    div#inner_work {
+    overflow: hidden;
+    background: #f2f2f2;
+}
+    section#work_area {
+    padding: 45px 0;
+    background: none;
+}
+    .inner_copyright_area {
+    overflow: hidden;
+    background: #f2f2f2;
+    padding: 20px 0;
+}
+    section#copy_right_area {
+    background: none;
+}
+     
+}
